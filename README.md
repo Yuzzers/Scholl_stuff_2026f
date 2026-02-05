@@ -22,3 +22,29 @@ School project for Zealand Køge
 Eksemplet hører unde rbåde Role and permission test: da rollerne kun kan de du skulle kunne. og autorisasition mellem systmer testet, da der ikke er en super user for alle objekterne.
 
 
+
+Test pyramide
+
+Bottom to top
+
+Unit test
+Tester om rolle baserert access control virker
+Tester om CRUD virker
+tester om conditions såsom Ansatte only virker
+tester om edge cases såsom udifineret roller ikke har fri adgang.
+
+
+Integration
+
+Tæster permission med data modeller og database
+
+Ansat prøver at opdatere en anden ansats timetabel -> nægtet
+HR prover at tilgå projekt -> nægtet
+
+End-to end
+
+Aktuel CRUD testing gennem API
+Manager kreere projet gennem API -> success og log i Databasen.
+
+
+
