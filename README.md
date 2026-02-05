@@ -48,3 +48,13 @@ Manager kreere projet gennem API -> success og log i Databasen.
 
 
 
+
+
+
+
+Data driven
+<img width="669" height="526" alt="image" src="https://github.com/user-attachments/assets/e95a179d-70a6-4aec-9e09-1d21b61f6164" />
+
+
+
+
