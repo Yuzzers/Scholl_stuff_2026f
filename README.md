@@ -17,3 +17,8 @@ School project for Zealand Køge
 | Admin     | Access control | Yes    | Yes  | Yes    | Yes    | Yes  | StÃ¥r for fordeling af access rettigheder til forskellige objects |
 | Guest     | Projectet      |        | Yes  |        |        |      | Read only                                                        |
 | HR-leder  | Ansatte        | Yes    | Yes  | Yes    | Yes    | Yes  | Kan kun arbejde med ansatte og deres information, ikke projectet |
+
+
+Eksemplet hører unde rbåde Role and permission test: da rollerne kun kan de du skulle kunne. og autorisasition mellem systmer testet, da der ikke er en super user for alle objekterne.
+
+
